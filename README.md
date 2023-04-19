@@ -1,1 +1,1 @@
-# Templates Projects
+# Template Vite + React + Typescript
